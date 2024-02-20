@@ -1,0 +1,21 @@
+{
+  "description": "Carro de teste para a aula de blockchain", 
+  "external_url": "https://matheuschristianini.github.io/lexus-lfa.json", 
+  "image": "https://matheuschristianini.github.io/lfa.avif", 
+  "image_small": "https://matheuschristianini.github.io/lfa.avif", 
+  "name": "Lexus LFA",
+  "attributes": [
+    {
+      "trait_type": "Carro", 
+      "value": "Lexus LFA"
+    },
+    {
+      "trait_type": "Cor", 
+      "value": "Amarelo"
+    },
+    {
+      "trait_type": "Ano", 
+      "value": "2022"
+    }
+  ]
+} 
